@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="Sourcetree logo" />
   <img width="12" />
@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
 </div>
-
+  
 ###
 
 <hr style="border: 0.5px solid #ccc; width: 100%; margin: 20px 0;" />
